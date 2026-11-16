@@ -32,7 +32,7 @@ python Detector_Casco_Operario_V2.py
 
 ### Notas
 
-- Necesitas una cámara web o DroidCam
+- Necesitas una cámara web o DroidCam en tu celular 
 - No muevas el archivo `cascade.xml` de su carpeta
 - Si la cámara no abre, verifica que ningún otro programa la esté usando
 - Que el código IP del python sea el que aparece en el DroidCam de tu dispositivo móvil 
